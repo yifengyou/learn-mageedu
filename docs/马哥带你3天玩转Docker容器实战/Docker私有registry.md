@@ -1,0 +1,2 @@
+# Docker私有registry
+
